@@ -11,7 +11,7 @@ mcp.json
 
 # Logs
 *.log
-/.agents/
+/.agents/skills/speckit*
 /.idea/
 /.specify/
 /specs/
