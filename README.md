@@ -1,6 +1,6 @@
-# MCP Atlassian — Local Docker Setup
+# MCPC — Local Docker Setup
 
-A self-contained local [MCP](https://modelcontextprotocol.io/) server for **Atlassian Jira and Confluence**, running via Docker, with a one-command setup script for the [`mcpc`](https://github.com/apify/mcpc) CLI client.
+A self-contained local [MCP](https://modelcontextprotocol.io/) server, running via Docker, with a one-command setup script for the [`mcpc`](https://github.com/apify/mcpc) CLI client.
 
 ---
 
