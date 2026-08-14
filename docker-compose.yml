@@ -1,0 +1,8 @@
+services:
+  mcp-atlassian:
+    image: ghcr.io/sooperset/mcp-atlassian:latest
+    stdin_open: true   # Required for stdio MCP transport
+    tty: false
+    env_file:
+      - .env
+    restart: unless-stopped
