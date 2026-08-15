@@ -1,6 +1,6 @@
 # Secrets — NEVER commit these
 .env
-mcp.json
+mcp_servers.json
 
 # IDE
 .idea/
@@ -15,3 +15,8 @@ mcp.json
 /.idea/
 /.specify/
 /specs/
+
+# Figma downloaded assets
+images/*
+!images/.gitkeep
+
